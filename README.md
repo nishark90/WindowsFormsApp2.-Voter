@@ -1,1 +1,1 @@
-C# Excercise - Eligible for vote or not?
+C# Excercise 1- Eligible for vote or not?
